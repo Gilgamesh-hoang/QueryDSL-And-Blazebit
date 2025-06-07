@@ -1,0 +1,1 @@
+## Data access tools are QueryDSL and Blaze-Persistence
